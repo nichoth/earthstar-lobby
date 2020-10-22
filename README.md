@@ -18,3 +18,14 @@ I wrote this in a short amount of time, with the tools I like, in a scrappy way.
 ## Reading this codebase
 
 Start at App.tsx. This is the root of the project.
+
+
+-------------------------------------------------------
+
+@nich.byna64v2rc73mc747eb2bdvfbilweijaatay7omhnebv6kx5oswgq
+btsd3ltt76ofks25toroiay5rwo3ofwc7xu5vu42lebthcnrlezpa
+
+
+
+
+
